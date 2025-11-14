@@ -11,6 +11,10 @@
 - heartbeat раз в час — сообщение что мониторинг живой
 - `/settings` — управление ключевыми словами и категориями
 
+## Требования
+
+Python 3.10+
+
 ## Стек
 
 aiogram 3, aiohttp, aiosqlite, beautifulsoup4, python-dotenv
