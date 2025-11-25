@@ -27,3 +27,7 @@ cp .env.example .env
 # вставить BOT_TOKEN
 python main.py
 ```
+
+## Лицензия
+
+MIT
